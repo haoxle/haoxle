@@ -1,4 +1,4 @@
-# Hi I'm Hao, a Junior Software Developrt at nology 👨‍💻
+# Hi I'm Hao, a Junior Software Developer at nology 👨‍💻
 
 I am a London based developrt and I have just completed my 12 week nology course.
 
@@ -15,6 +15,8 @@ My previous projects:
 - [PunkApi](https://haoxle.github.io/PunkApi/)
 - [Calculator](https://haoxle.github.io/CalculatorProject/)
 
+
+## Currently
 - 🔭 I’m currently working on my Full Stack project
 - 🌱 I’m currently learning SpringBoot
 - 😄 Pronouns: He/Him
