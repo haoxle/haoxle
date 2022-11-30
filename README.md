@@ -1,6 +1,6 @@
 # Hi I'm Hao, a Junior Software Developer at nology 👨‍💻
 
-I am a London based developrt and I have just completed my 12 week nology course.
+I am a London based developer and I have just completed my 12 week nology course.
 
 I enjoy:
 - CSS/SASS
