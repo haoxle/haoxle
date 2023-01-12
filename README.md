@@ -8,6 +8,9 @@ I enjoy:
 - Java
 
 My previous projects:
+- [Portfolio](https://haoxle.github.io/portfolio-page/)
+- [Library](https://github.com/haoxle/library)
+- [Widget App](https://haoxle.github.io/weather-app/)
 - [Currency Converter](https://quadra-client-project.web.app/)
 - [Maple Maze](https://haoxle.github.io/MapleMaze/)
 - [Snap](https://github.com/haoxle/Snap-Game)
