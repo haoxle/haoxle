@@ -21,6 +21,6 @@ My previous projects:
 
 ## Currently
 - 🔭 I’m currently working on my Full Stack project
-- 🌱 I’m currently learning and implementing REDUX in my full stack project
+- 🌱 I’m currently learning python and aws
 - 😄 Pronouns: He/Him
 - 🦊 Check out my [portfolio](https://haoxle.github.io/portfolio-page/)
